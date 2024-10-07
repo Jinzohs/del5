@@ -1,0 +1,28 @@
+#game-in-progress {
+    display: none;
+}
+
+#game-feedback {
+    display: none;
+}
+
+#confetti-canvas {
+	position: absolute;
+	top: 0;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form-check {
+  margin-bottom: 10px;
+}
